@@ -4,7 +4,7 @@ Welcome to the C# tutorial. For a intermidiate C# programmer who wants to expand
 
 Here are the topics that will be tought in this tutorial
 
-1. Queue
+1. [Queue](Queue.md)
 2. // link the tutorial 
 3. // link the tutorial 
 
