@@ -7,3 +7,6 @@ A stack can have many uses in the programming world but also a day to day life w
 ![stack](pancake_stack.jpeg)
 
 In the image above this is a stack of pancakes. The pancake at the botton is the pancake that was cooked first and as you go up the stack of panckaes the one on top would be the newest cooked pancake in that stack. 
+
+## Commands used in a stack 
+When programing a stack there are some key terms that will be used. One of these terms is "Push". When using the term push this is used to add things or add the thing your trying to add to the stack. Its almost like a insert. The other term that is mainly used is "pop". This term will remove the last thing that was added to the stack. Pop is like a delete last. 
